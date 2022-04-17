@@ -1,0 +1,14 @@
+.table {
+    margin-top: 20px;
+    background-color: rgb(209,231,231);
+    }
+    
+    section {
+        width: 100%;
+    }
+
+    .title {
+        margin-top: 5px;
+        text-align: center;
+        font-size: 40px;
+    }

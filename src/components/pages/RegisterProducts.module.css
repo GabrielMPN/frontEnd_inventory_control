@@ -1,0 +1,41 @@
+.title {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.stock {
+    border: 3px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px black;
+    height: 400px;
+    margin-top: 20px;
+    width: 500px;
+    background-color: white;
+    padding: 10px;
+    overflow:scroll;
+}
+
+.number {
+    width: 50px;
+}
+
+.boxes_feedstocks {
+    display: flex;
+    justify-content: space-between;
+   flex-wrap: wrap;
+}
+
+.sizeInput {
+    width: 100%;
+}
+
+.buttonProduct {
+    float: right;
+}
+
+@media only screen and (max-width: 1220px) {
+    .boxes_feedstocks {
+        justify-content: center;
+    }
+}

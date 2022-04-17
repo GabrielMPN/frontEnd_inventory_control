@@ -1,0 +1,21 @@
+.title {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.boxRegister {
+    background: linear-gradient(70deg, white, lightgray);
+    text-align: center;
+    border: 1px solid gray;
+    width: 400px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+.formFeedstock {
+    display: flex;
+    justify-content: center;
+}
+
