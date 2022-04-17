@@ -1,4 +1,4 @@
-Passo a passo para executar a aplicação front-end:
+### Passo a passo para executar a aplicação front-end:
 
 1. Na pasta do projeto execute o comando "npm install" para instalar todas as dependências(precisa ter o node instalado para funcionar).
 
